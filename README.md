@@ -22,4 +22,4 @@ I am passionate about Cyber Security and Web Development<br>I’m currently work
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Void-Monarch&icon=2&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Void-Monarch&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
