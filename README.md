@@ -13,9 +13,11 @@ I am passionate about Cyber Security and Web Development<br>I’m currently work
 
 # 📊 GitHub Stats:
 <center>
+    
 ![](https://github-readme-stats.vercel.app/api?username=Void-Monarch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Void-Monarch&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Void-Monarch&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    
 </center>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Void-Monarch&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
