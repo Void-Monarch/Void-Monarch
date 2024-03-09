@@ -1,5 +1,5 @@
 # 🗿 About Me:
-I am passionate about Cyber Security and Web Development<br>I’m currently working on developing my Full Stack Skills<br>I’m currently learning Nodejs<br>Ask me about web Development and Anime / Manga / Web Novel<br>Fun fact : Very big Weeb.
+I am passionate about Cyber Security and Web Development<br>I’m currently working on developing my Full Stack Skills<br>Ask me about web Development and Anime / Manga / Web Novel<br>Fun fact : Very big Weeb.
 ## 🌐 Let's Connect!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-parashar-54112024b/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsh_cypher) 
