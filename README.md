@@ -1,6 +1,6 @@
 # 🗿 About Me:
 I am passionate about Cyber Security and Web Development<br>I’m currently working on developing my Full Stack Skills<br>Ask me about web Development and Anime / Manga / Web Novel<br>Fun fact : Very big Weeb.
-<br /><br />**Current focus:** NextJS and Rust 🦀
+<br /><br />🎯 **Current focus:** NextJS and Rust 🦀
 
 ## 🌐 Let's Connect!:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-parashar-54112024b/)
